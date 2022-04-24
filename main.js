@@ -68,7 +68,7 @@ function arrowkey()
 }
 function specialkey()
 {
-	img_image="spkey.png";
+	img_image="spkey.jpg";
 	add();
 }
 function otherkey()
